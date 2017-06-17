@@ -1,0 +1,1 @@
+app-admin ALL=(ALL) NOPASSWD: ALL
